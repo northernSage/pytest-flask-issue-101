@@ -20,4 +20,6 @@ Run tests
 
         pytest
 
+Obs. Make sure redis is running before executing tests
+
 .. _issue #101: https://github.com/pytest-dev/pytest-flask/issues/101
